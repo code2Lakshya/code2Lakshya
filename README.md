@@ -86,7 +86,7 @@
 
 <p align="center">
   <a href="https://github.com/code2Lakshya">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alsiam&theme=radical" alt="Lakshya's GitHub Contribution"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=code2Lakshya&theme=radical" alt="Lakshya's GitHub Contribution"/>
   </a>
 </p>
 
